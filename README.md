@@ -34,4 +34,4 @@ Interactive HR Analytics Dashboard built using Power BI to analyze employee attr
 ![Dashboard Screenshot](Dashboard%20screenshot.png)
 
 ## Author
-Kaushki Rai
+Kaushki 
